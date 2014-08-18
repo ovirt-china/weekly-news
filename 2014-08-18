@@ -1,0 +1,103 @@
+# 编辑寄语
+关于开源在中国的畸形发展，或者说不是按照发起者、倡导者所建构的那样发展。首先，没有真正意义上的社区，其次，民族主义无孔不入，再次，商业的都可以盗版，开源为什么要收钱？
+
+至少目前应该采用一种悲观主义的态度，无论如何都逃不出国这个边界，这个古老国度的文化。
+
+团队，何以为团队?为何在这片土地上所谓的成功的团队，都是准军事化的？
+
+技术的创新，是需要一个长期的积累过程的，没有那么一蹴而就的，这点似乎大家都知道，但是一旦政治的狂热来了，就忘记了这个存在的事实，继而相信"人定胜天"。
+
+关于此咨询，我没有去关心它未来会是什么样子，甚至本身就是临时想到的做法，我期望的是，能够在每周的整理过程中，让自己思考的更多，想得更远。
+
+
+# 社区动态
+  ## ovirt 邮件列表摘要
+
+*   [ovirt3.5 - deep dive - foreman bare metal provisioning](http://lists.ovirt.org/pipermail/devel/2014-August/008405.html)
+
+    oVirt 3.5 中与 foreman bare metal provisioning 的集成
+
+*   [EL7 support](http://lists.ovirt.org/pipermail/users/2014-August/026571.html)
+
+    oVirt 3.5 可能还是基于 EL6
+
+*   [Cluster parameters override - design proposal](http://lists.ovirt.org/pipermail/devel/2014-August/008432.html)
+
+    Feature 请求：设置单台虚拟机的 'emulated machine' 和 'CPU level' 的值
+
+*   [oVirt Quality Team - 10 months later...](http://lists.ovirt.org/pipermail/users/2014-August/026689.html)
+
+    创建质量保证组
+
+*   [Command coordination deep-dive session](http://lists.ovirt.org/pipermail/devel/2014-August/008451.html)
+
+    对 oVirt 的业务逻辑层中 Commmand 的执行的详细解释，推荐给对 oVirt 业务逻辑层感兴趣的同学
+
+*   [ovirt3.5 - deep dive - OVF on any domain + import existing data domain](http://lists.ovirt.org/pipermail/users/2014-August/026664.html)
+
+    oVirt deep dive：虚拟机的 OVF 信息分布存储；导入已存在的数据域
+
+*   [Management network as a role - design proposal](http://lists.ovirt.org/pipermail/devel/2014-August/008467.html)
+
+    管理网络从此可以动态设置
+
+
+资讯精选
+====================
+*   [Anand Release Candidate](http://manageiq.org/blog/2014/08/anand-release-candidate/)
+
+    ManageIQ社区版的第一个RC版release.
+
+*   [Red Hat Enterprise Linux 6.6 beta is ready for testing](http://www.zdnet.com/red-hat-enterprise-linux-6-6-beta-is-ready-for-testing-7000032557/)
+
+    我以为6.5是最后一个版本了呢。
+
+*   [COMPANIES WITH INNOVATIVE IT BELIEVE IN COLLABORATION](https://enterprisersproject.com/article/infographic-make-everyone-thought-leader)
+
+    从技术领导者的思维出发，国外的环境也许就是这么单纯。
+
+*   [SUSE releases Icehouse OpenStack cloud](http://www.zdnet.com/suse-releases-icehouse-openstack-cloud-7000032597/)
+
+    Suse 基于icehourse的OpenStack版本，也继于redhat之后发布了，是不是们借鉴？
+
+
+比较 cool 的技术
+====================
+*   [open-source-tools-make-your-presentations-pop](http://opensource.com/life/14/7/3-open-source-tools-make-your-presentations-pop)
+
+    只用开源工具制作非常棒的演示文稿，比如非常炫的impress.js .
+
+*   [cool-google-cloud-features](http://www.cio.com/article/2464003/cloud-computing/3-cool-google-cloud-features.html?utm_campaign=sflow_tweet#tk.rss_all)
+
+    google IaaS云的最显著的三大特性，正如GCE发布时，1分钟启动1000VM,google的技术真的不是盖的。
+
+
+文化传播
+====================
+*   [](http://ianpo.com/article-5490.html)
+
+    黑客的下一个攻击目标：可穿戴设备
+
+*   [](http://www.alibuybuy.com/posts/85673.html)
+
+    苹果前员工们创立的10大成功公司
+
+*   [](http://blog.developers.ba/how-much-water-should-i-drink-a-day/)
+
+    程序员跟其他人比起来应该喝更多的水
+
+*   [](http://news.dice.com/2014/07/29/5-programming-languages-youll-need-next-year-beyond/)
+
+    未来2年你可能需要的5种语言
+
+*   [](http://www.nicholascloud.com/2014/03/how-to-be-a-sane-programmer/)
+
+    程序员如何活的明白
+
+
+开源盛事
+==================
+*   [Eucalyptus CEO表示希望跟OpenStack共赢](http://www.infoq.com/cn/news/2014/08/eucalyptus-openstack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+
+    Eucalyptus的CEO称要兼容OpenStack，我们要记得Eucalyptus可是第一个号称和AWS一样的私有云供应商，在尚失了社区的驱动，商业上举步惟艰的状态下出如此断语，值得深思。
+
