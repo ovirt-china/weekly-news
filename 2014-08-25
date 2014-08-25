@@ -1,23 +1,36 @@
 # 编辑寄语
+  这周的资讯，比上几次来的晚了一些，但晚有晚的好处，那就是一位名叫lofyer的同学希望将他的文档放在ovirt-china.org的社区上，我花了大概一刻钟
+  的时间浏览了下他在readthedocs.org上的积累，实践见真知，干货还是蛮多的。在这里我就隆重推荐下他的文档：
+  [In the Cloud ](https://inthecloud.readthedocs.org/zh_CN/latest/)
+  
+  当然，我们更加欢迎他加入到oVirt-china的wiki编辑上来。
 
+  我还是佩服那些坚持自我，一直走下去的，太多的抱怨和负能量的人，基本都以失败为结局，或逃避，或堕落。
 
 
 # 社区动态
   ## ovirt-china 更新亮点
-*   [ ]( )
-
+*   [oVirt体系架构 ](http://ovirt-china.org/mediawiki/index.php/OVirt_Architecture )
+    无论是开发者，还是技术支持，还是最终的管理员，对于从一个宏观的角度去上理解oVirt，此文正如期待。
     
-
-*   [ ]( )
-
+*   [ovirt-china wiki账户注册，急需变更 ](http://ovirt-china.org/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9 )
+    大多是广告用户，需要有审核机制。这个世界总是有无孔不入的人。
 
   ## ovirt 更新亮点
 
-*   [ ]( )
+*   [oVirt3.5发行纪要 ](http://www.ovirt.org/OVirt_3.5_Release_Notes )
 
-    
+    oVirt3.5.0发布在即，更新的release notes，需要我们密切关注。
 
-*   [ ]( )
+*   [OpenStack子项目Neutron对oVirt的支持 ](http://www.ovirt.org/Features/NeutronVirtualAppliance )
+    为了更加的独立使用OpenStack中的项目，单独的将Neutron作为一个appliance来实现，非常的妙。
+
+*   [oVirt3.6新特性开始讨论 ](http://www.ovirt.org/OVirt_3.6_Release_Management )
+    oVirt3.5已经接近尾声，3.6也即将开始，拭目以待那些cool的新特性吧。
+
+*   [oVirt3.5的新特性之一：导入存储域 ](http://www.ovirt.org/Features/ImportStorageDomain )
+
+    导入已经存在的数据域，这对于古老用户的升级，可能是个不错的选择。
 
   ## ovirt 邮件列表摘要
 
@@ -45,26 +58,23 @@
 
 资讯精选
 ====================
-*   [ ]( )
+*   [ ](http://www.letscorp.net/archives/74660 )
 
-    
+    华为的员工所描述的，对于这种思路，我只有感慨， 我会以另外一篇blog来评说下此文。
 
-*   [ ]( )
+*   [ ](http://opensource.com/business/14/8/learn-linux )
 
-    
+    为什么Linux对你的职业生涯有诸多好处？笔者从切身体验出发，Linux不仅仅是一个操作系统，某种程度上它影响着我们的思维方式。这大概也是可以让人走的更远的一个理由。
 
-*   [ ]( )
-
+*   [ ](http://www.letscorp.net/archives/74362 )
+   
+    诺基亚裁员，一度辉煌的公司。任何公司（广义一点的社会团体）都会因为不能顺应时势而走进历史。
     
 比较 cool 的技术
 ====================
-*   [ ]( )
+*   [12张你应该知道的数据可视化图表](http://www.datasciencecentral.com/profiles/blogs/12-great-charts )
 
-    
-*   [ ]( )
-
-    
-
+    伴随着大数据时代的来临，给那些个白痴们，用图形化的方式表示数据的结果，不然，大数据就太有点专业。
     
 
 
@@ -83,9 +93,8 @@
 
 开源盛事
 ==================
-*   [ ]( )
-
+*   [开源云计算北美会议](http://events.linuxfoundation.org/events/cloudopen-north-america/program/slides )
     
+    此次的会议主题不多，但都是干货。给我印象深刻的是几篇关于网络的以及那个troubleshooting as a service。
 
-*   [ ]( )
 
