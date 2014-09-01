@@ -1,21 +1,25 @@
 # 编辑寄语
-
+  上周公司进行了所谓的团队拓展训练，就是做一些团体的游戏，喊一些口号，完成一些个任务。
+我个人是对这个蛮排斥的，认为是毫无意义的，我讨厌那些口号式的狂热，感恩式的表现，以为人生从此升化了许多的虚伪言辞。
+无论怎样，团队这个由于文化背景、修养、年龄、地域等差距，导致沟通的问题，这样大概也是中国式管理的能够想到的唯一的办法。
+  不管怎么说，我们可以无视这些，正如hunt所讲：君子和而不同，我陪你们玩玩也无妨。
+  让我们关注到自身，一个成功的团队，文化的因素其实只是根基，俗点，就是需要得到世人的瞩目。  
 
 
 # 社区动态
   ## ovirt-china 更新亮点
-*   [ ]( )
+*   [RHEV3.4.1 release ](http://redhatstackblog.redhat.com/2014/08/25/red-hat-enterprise-virtualization-3-4-1-released/ )
 
-    
+    红帽在ovirt社区仅相差半年，是否有点恨铁不成钢？
 
 *   [ ]( )
 
 
   ## ovirt 更新亮点
 
-*   [ ]( )
-
+*   [ovirt aaa deep dive ](https://plus.google.com/u/0/events/c7ut1o51g3qb93n2n22kq8ul1sk )
     
+    这个plus的在线直播，有空的就去看看。
 
 *   [ ]( )
 
@@ -48,8 +52,9 @@
 
 资讯精选
 ====================
-*   [ ]( )
-
+*   [vSphere几个功能](http://wp.techtarget.com.cn/virtual/2013/vspheretechtips.pdf )
+    
+    VMware 当然有钱雇佣一些人去写一些话，商业策略有时候真的就是一个洗脑的过程。
     
 
 *   [ ]( )
@@ -61,8 +66,9 @@
     
 比较 cool 的技术
 ====================
-*   [ ]( )
+*   [持续集成服务](https://travis-ci.org/ )
 
+   实现了持续集成as a service.
     
 *   [ ]( )
 
@@ -82,9 +88,12 @@
 
 开源盛事
 ==================
-*   [ ]( )
+*   [vmWorld 2014 ](http://www.vmworld.com/index.jspa )
 
+    VMware 这几年的技术会议非常的火爆，我今天贴在这里，也是看在它支持Docker的份上。
+
+*   [cloudopen北美](http://events.linuxfoundation.org/events/cloudopen-north-america )
     
+    我已经忘记上周是否贴了此，也不去review了，没看过的看一下，看过的再找找。
 
-*   [ ]( )
 
