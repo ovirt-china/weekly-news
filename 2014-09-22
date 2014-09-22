@@ -6,7 +6,7 @@
 
 
 # 社区动态
-  ## ovirt-china 更新亮点
+## ovirt-china 更新亮点
 *   [虚拟机备份](http://ovirt-china.org/mediawiki/index.php/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%A4%87%E4%BB%BD)
  
     oVirt 中文终于有了自己的项目！ 总算是个开始。
@@ -15,7 +15,7 @@
 *   [hosted-engine在node中自我维护](http://ovirt-china.org/mediawiki/index.php/Features/Self_Hosted_Engine_Maintenance_Flows)
     鸡生蛋，蛋生鸡，这种问题最后还是要落实的。
 
-  ## ovirt 更新亮点
+## ovirt 更新亮点
 
 *   [CommandCoordinator](http://www.ovirt.org/Features/Design/CommandCoordinator)
 
@@ -26,13 +26,19 @@
 
     oVirt社区还有这等心思？为什么？是因为架构师是女性吗？
 
-  ## ovirt 邮件列表摘要
+## ovirt 邮件列表摘要
 
-*   [ ]( )
+*   [oVirt 3.6 Planning](http://lists.ovirt.org/pipermail/users/2014-September/027363.html)
 
-    
+    oVirt 3.6 继续 feature 征集，较受关注的有 webadmin端上传ISO，增加对 CephFS 的支持，从 webadmin 设置 USB 加密狗，减少 ISO 和 export 存储域故障对数据中心的影响， OpenVSwitch 官方支持
 
-*   [ ]( )
+*   [oVirt 3.5.0 status](http://lists.ovirt.org/pipermail/devel/2014-September/008823.html)
+
+    oVirt 3.5.0 GA 将在9月22日讨论是否发布，目前还有86个bug
+
+*   [Propose Shirly Radco as DWH & Reports Maintainer](http://lists.ovirt.org/pipermail/devel/2014-September/008816.html)
+
+    Shirly Radco 推选为 DWH & Reports 的维护者
 
 
 
@@ -66,18 +72,15 @@
 
 文化传播
 ====================
-*   [ ]( )
+*   [开源文化已不再仅仅局限于软件开发者](http://tech.it168.com/a2014/0416/1613/000001613661.shtml)
 
-    
+*   [了解开源文化](http://huifeideyu.blog.51cto.com/6764601/1179758)
 
-*   [ ]( )
+*   [关于开源的三大谎言](http://oss.org.cn/html/05/n-86405.html)
 
-    
+*   [细数开源历史上十个重大事件](http://www.iteye.com/news/29264-open-source)
 
-*   [ ]( )
-
-
-*   [ ]( )
+*   [从一幅图中了解开源世界](http://wwweducn.iteye.com/blog/1968744)
 
 
 开源盛事
