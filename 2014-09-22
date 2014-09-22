@@ -1,0 +1,99 @@
+# 编辑寄语
+  近来拜读Linus Torvalds的自传，对于这个天才级的人物，我不作任何的评价。我想的更多的是自己。
+  其实，他在某种程度上让我有了工作，并能够享受其中。这点让我很是感激。
+  人生赋予我们很多追求，自由、财富、健康、旅行等等不一而足，让技术成就世界，这大概是每一个入行的人梦寐以求的。
+  人类社会，存在政治，存在各种观点，自治系统确实是最好的方式。统一本身就是种反自然的行为。
+
+
+# 社区动态
+  ## ovirt-china 更新亮点
+*   [虚拟机备份](http://ovirt-china.org/mediawiki/index.php/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%A4%87%E4%BB%BD)
+ 
+    oVirt 中文终于有了自己的项目！ 总算是个开始。
+    
+
+*   [hosted-engine在node中自我维护](http://ovirt-china.org/mediawiki/index.php/Features/Self_Hosted_Engine_Maintenance_Flows)
+    鸡生蛋，蛋生鸡，这种问题最后还是要落实的。
+
+  ## ovirt 更新亮点
+
+*   [CommandCoordinator](http://www.ovirt.org/Features/Design/CommandCoordinator)
+
+    异步任务管理在数据库中的特殊处理方式。
+    
+
+*   [OPW ]( http://www.ovirt.org/Outreach_Program_for_Women)
+
+    oVirt社区还有这等心思？为什么？是因为架构师是女性吗？
+
+  ## ovirt 邮件列表摘要
+
+*   [ ]( )
+
+    
+
+*   [ ]( )
+
+
+
+
+资讯精选
+====================
+*   [google和Dropbox合作开发安全项目simple secure ](http://www.pcmag.com/article2/0,2817,2468773,00.asp)
+
+    目标是基于开源的安全工具。
+
+*   [Facebook,github等合作开发TODO ](http://bits.blogs.nytimes.com/2014/09/15/an-alliance-of-major-players-to-guide-open-source-software/ )
+
+    开源有其自身的项目、工程概念。这个似乎又违背了某些东西。
+
+*   [红帽收购feedhenry](http://techcrunch.com/2014/09/18/red-hat-buys-feedhenry-for-82m-to-add-mobile-app-development-to-its-platform/ )
+
+    红帽进军PaaS的心不死，收购这家为企业提供移动应用平台的公司，相信是为进一步落地做准备。
+
+比较 cool 的技术
+====================
+*   [Docker in Enterprise ](http://developerblog.redhat.com/2014/09/05/opencloud2014-slides-linda-wang-use-cases-for-docker-in-enterprise-linux-environment/ )
+
+    红帽的Linda Wang在OpenCloud2014的演讲，相信这个slide能够让很多人明白Docker在企业中的存在意义。
+    
+*   [在slideshare中搜索OpenStack ](http://www.slideshare.net )
+
+    由于供应商的问题，slideshare无法打开，近来看到几篇关于OpenStack的预测和介绍。比如支持hadoop,spark的支持，比如nava-docker的支持等，请有心的同学自行搜索。
+
+    
+
+
+文化传播
+====================
+*   [ ]( )
+
+    
+
+*   [ ]( )
+
+    
+
+*   [ ]( )
+
+
+*   [ ]( )
+
+
+开源盛事
+==================
+*   [ 自由软件日](http://www.softwarefreedomday.org/)
+
+     还能说什么？似乎有些人在KTV唱歌，不知道和这个有关。
+
+*   [puppet盛会2014 ](http://2014.puppetconf.com/ )
+     
+     Puppet的盛宴，随着这个部署的流行，对于企业的管理确实是不错的。
+
+*    [Openstack在Benelux的聚会 ]( http://www.openstack.nl/OpenStack_Benelux_2014)
+ 
+     几乎每周在地球的某个地方举行着OpenStack的会议。
+*    [hack的聚会 ]（http://2014.hackference.co.uk/）
+    
+     为期三天的讨论，现代的Hacker们都说点啥？
+
